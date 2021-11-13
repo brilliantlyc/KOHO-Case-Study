@@ -8,7 +8,7 @@ The KOHO company was incorporated in 2014. It was founded by Daniel Eberhard. Th
  
 ## Business Activities:
 
-KOHO is trying to solve the problem of banks charging fees and consumers don’t know what they are for. In addition, the banks are making profit while Canadians are paying banking fees that are among the highest in the world. KOHO wants to show Canadians that there is an alternative to the big 5 banks by providing better financial solutions to spend and save, with no hidden fees, no fine print, and no catch.
+KOHO is trying to solve the problem of banks charging fees to consumers, while consumers don't know what the fees are for. In addition, the banks are making profit while Canadians are paying banking fees that are among the highest in the world. KOHO wants to show Canadians that there is an alternative to the big 5 banks by providing better financial solutions to spend and save, with no hidden fees, no fine print, and no catch.
 
 The intended customers are Millennials or younger people that typically do not want to go to a bank or pay high fees for having a savings or chequing account. Canadian Millennials made up 27% of the total population in 2019. Millennials are the largest generation in Canada. Unlike other competitors that offer Visa debit cards, KOHO offers 0.5% cash-back on all purchases. 
 
@@ -50,12 +50,12 @@ I think that offering this service would attract the younger generation to the a
 * [betakit](https://betakit.com/koho-secures-70-million-series-c-to-scale-adoption-of-its-digital-banking-services/)
 * [betakit](https://betakit.com/with-new-execs-and-new-products-koho-says-its-ready-to-become-canadas-leading-challenger-bank/)
 * [crunchbase](https://www.crunchbase.com/organization/koho-financial/company_financials)
-* [UWO](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/)
+* [IVEY](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/)
 * [Statistics Canada](https://www150.statcan.gc.ca/n1/pub/11-626-x/11-626-x2019006-eng.htm)
 * [Slintel](https://www.slintel.com/company/koho/5c3b011cd55ae49f1b77645b)
-* [toptal](https://www.toptal.com/finance/market-research-analysts/fintech-landscape)
-* [decode](https://decode.agency/article/fintech-trends/)
+* [Toptal](https://www.toptal.com/finance/market-research-analysts/fintech-landscape)
+* [DECODE](https://decode.agency/article/fintech-trends/)
 * [modern diplomacy](https://moderndiplomacy.eu/2021/10/06/top-5-fintech-trends-for-enabling-smart-and-secure-finance/)
-* [tech crunch](https://techcrunch.com/2017/03/16/koho-a-mobile-only-suite-of-financial-services-for-millennials-launches-in-canada/)
-* [yahoo finance](https://finance.yahoo.com/news/fintech-analytics-top-7-metrics-182104952.html)
+* [Tech Crunch+](https://techcrunch.com/2017/03/16/koho-a-mobile-only-suite-of-financial-services-for-millennials-launches-in-canada/)
+* [yahoo! finance](https://finance.yahoo.com/news/fintech-analytics-top-7-metrics-182104952.html)
 * [KOHO](https://www.koho.ca/)
