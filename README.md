@@ -41,7 +41,7 @@ KOHO is performing well relative to competitors in the same domain, however Mogo
 If I were to advise KOHO, I would suggest that they give the users the ability to donate to a charity. Perhaps by allowing them to set aside small amounts of money that can be accumulated to a sufficient amount that would enable the user to obtain a tax receipt from the charity.
 
 I think that offering this service would attract the younger generation to the app. They would feel great about doing a good deed and having it made easy for them to do it. And rather than donating small amounts at retail stores where the customer doesn’t get a tax receipt, KOHO would stand out by helping charities while helping their customers.
-This additional service would utilize technologies such as Netlify, crunchbase, and Shopify Plus. These technologies are appropriate for my solution because they would allow KOHO to develop the additional feature and do market research of consumers' interest in donating to charities. As well as determine what charities are popular among the customers so that they could maybe collaborate with the charities and thus have an even greater impact.
+This additional service would utilize technologies such: as Netlify, crunchbase, and Shopify Plus. These technologies are appropriate for my solution because they would allow KOHO to develop the additional feature and do market research of consumers' interest in donating to charities. As well as determine what charities are popular among their customers so that KOHO could maybe collaborate with the charities and thus have an even greater impact.
 
 <br><br>
 
